@@ -1,0 +1,14 @@
+C:\code\SPAfCC\Specs\bin\Debug\Specs.dll
+C:\code\SPAfCC\Specs\bin\Debug\Specs.pdb
+C:\code\SPAfCC\Specs\bin\Debug\Machine.Fakes.Adapters.Moq.dll
+C:\code\SPAfCC\Specs\bin\Debug\Machine.Fakes.dll
+C:\code\SPAfCC\Specs\bin\Debug\Machine.Specifications.Clr4.dll
+C:\code\SPAfCC\Specs\bin\Debug\Machine.Specifications.dll
+C:\code\SPAfCC\Specs\bin\Debug\Machine.Specifications.Should.dll
+C:\code\SPAfCC\Specs\bin\Debug\Moq.dll
+C:\code\SPAfCC\Specs\bin\Debug\Machine.Fakes.xml
+C:\code\SPAfCC\Specs\bin\Debug\Machine.Fakes.Adapters.Moq.xml
+C:\code\SPAfCC\Specs\bin\Debug\Moq.xml
+C:\code\SPAfCC\Specs\obj\Debug\Specs.csprojResolveAssemblyReference.cache
+C:\code\SPAfCC\Specs\obj\Debug\Specs.dll
+C:\code\SPAfCC\Specs\obj\Debug\Specs.pdb
