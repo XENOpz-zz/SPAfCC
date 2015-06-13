@@ -15,7 +15,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace WebApplication1.DependencyResolution {
+namespace SPAfCC.DependencyResolution {
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -24,7 +24,7 @@ namespace WebApplication1.DependencyResolution {
     using Microsoft.Practices.ServiceLocation;
 
     using StructureMap;
-	
+    
     /// <summary>
     /// The structure map dependency scope.
     /// </summary>

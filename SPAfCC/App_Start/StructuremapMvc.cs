@@ -15,21 +15,21 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-using WebApplication1.App_Start;
+using SPAfCC.App_Start;
 
 using WebActivatorEx;
 
 [assembly: PreApplicationStartMethod(typeof(StructuremapMvc), "Start")]
 [assembly: ApplicationShutdownMethod(typeof(StructuremapMvc), "End")]
 
-namespace WebApplication1.App_Start {
+namespace SPAfCC.App_Start {
 	using System.Web.Mvc;
 
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
 
-	using WebApplication1.DependencyResolution;
+	using SPAfCC.DependencyResolution;
 
-    using StructureMap;
+	using StructureMap;
     
 	public static class StructuremapMvc {
         #region Public Properties

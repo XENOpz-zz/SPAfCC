@@ -16,7 +16,7 @@
 // --------------------------------------------------------------------------------------------------------------------
 
 
-namespace WebApplication1.DependencyResolution {
+namespace SPAfCC.DependencyResolution {
     using StructureMap;
 	
     public static class IoC {

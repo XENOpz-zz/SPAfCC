@@ -15,7 +15,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace WebApplication1.DependencyResolution {
+namespace SPAfCC.DependencyResolution {
     using StructureMap.Configuration.DSL;
     using StructureMap.Graph;
 	
