@@ -16,7 +16,7 @@
 // --------------------------------------------------------------------------------------------------------------------
 
 
-namespace SPAfCC_API.DependencyResolution
+namespace SPAfCC.DependencyResolution
 {
     using StructureMap;
 

@@ -15,20 +15,20 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-using SPAfCC_API.App_Start;
+using SPAfCC.App_Start;
 
 using WebActivatorEx;
 
 [assembly: PreApplicationStartMethod(typeof(StructuremapMvc), "Start")]
 [assembly: ApplicationShutdownMethod(typeof(StructuremapMvc), "End")]
 
-namespace SPAfCC_API.App_Start
+namespace SPAfCC.App_Start
 {
     using System.Web.Mvc;
 
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
 
-    using SPAfCC_API.DependencyResolution;
+    using SPAfCC.DependencyResolution;
 
     using StructureMap;
     

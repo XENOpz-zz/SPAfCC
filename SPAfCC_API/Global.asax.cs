@@ -1,4 +1,4 @@
-﻿namespace SPAfCC_API
+﻿namespace SPAfCC
 {
     using System;
     using System.Web;

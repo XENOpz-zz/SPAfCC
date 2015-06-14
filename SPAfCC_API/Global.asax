@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="SPAfCC_API.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="SPAfCC.Global" Language="C#" %>
