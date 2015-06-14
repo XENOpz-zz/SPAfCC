@@ -1,5 +1,5 @@
 ﻿// ReSharper disable UnusedMember.Local
-namespace Specs
+namespace Specs_API
 {
     using System;
 

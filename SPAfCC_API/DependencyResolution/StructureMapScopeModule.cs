@@ -1,7 +1,8 @@
-namespace WebApplication1.DependencyResolution {
+namespace SPAfCC_API.DependencyResolution
+{
     using System.Web;
 
-    using WebApplication1.App_Start;
+    using SPAfCC_API.App_Start;
 
     using StructureMap.Web.Pipeline;
 

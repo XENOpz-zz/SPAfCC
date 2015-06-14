@@ -15,7 +15,8 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace WebApplication1.DependencyResolution {
+namespace SPAfCC_API.DependencyResolution
+{
     using System;
     using System.Web.Mvc;
 

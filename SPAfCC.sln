@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specs", "Specs\Specs.csproj", "{24F10540-C5AB-4C32-ABCB-90F0823AA843}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specs_API", "Specs\Specs_API.csproj", "{24F10540-C5AB-4C32-ABCB-90F0823AA843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAfCC", "SPAfCC\SPAfCC.csproj", "{3F5B2FAF-283D-4D2B-954D-F948A16EEC4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAfCC_API", "SPAfCC_API\SPAfCC_API.csproj", "{3F5B2FAF-283D-4D2B-954D-F948A16EEC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAfCC_Client", "SPAfCC_Client\SPAfCC_Client.csproj", "{6107FD4F-E116-453F-9032-ECE2CF5D7FEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3F5B2FAF-283D-4D2B-954D-F948A16EEC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F5B2FAF-283D-4D2B-954D-F948A16EEC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F5B2FAF-283D-4D2B-954D-F948A16EEC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6107FD4F-E116-453F-9032-ECE2CF5D7FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6107FD4F-E116-453F-9032-ECE2CF5D7FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6107FD4F-E116-453F-9032-ECE2CF5D7FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6107FD4F-E116-453F-9032-ECE2CF5D7FEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
