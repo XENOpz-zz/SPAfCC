@@ -201,3 +201,4 @@ NewOrbit.ExVerifier.Web/WorkflowTraceLog.txt
 
 # Artifacts from merging
 *.orig
+*.suo
