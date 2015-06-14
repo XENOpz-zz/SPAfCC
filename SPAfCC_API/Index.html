@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="app">
+<head>
+    <title></title>
+
+    <script src="Scripts/angular.min.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/main.js"></script>
+
+</head>
+<body ng-controller="Main as vm">
+    <input type="text" ng-model="vm.food" placeholder="Enter food" />
+
+    <p>Sriracha sauce is great with {{vm.food}}!</p>
+    
+    <div>
+        
+    </div>
+    
+    <input type="radio" name="zoom" value="1x">1x
+    <input type="radio" name="zoom" value="2x">2x
+    <input type="radio" name="zoom" value="4x">4x
+
+
+</body>
+</html>

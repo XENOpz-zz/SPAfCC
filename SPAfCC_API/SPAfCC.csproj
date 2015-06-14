@@ -117,7 +117,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\app.module.js" />
+    <Content Include="app\main.js" />
     <Content Include="Global.asax" />
+    <Content Include="Index.html" />
+    <Content Include="Scripts\angular-mocks.js" />
+    <Content Include="Scripts\angular.js" />
+    <Content Include="Scripts\angular.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -137,6 +143,7 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
+    <Content Include="Scripts\angular.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
